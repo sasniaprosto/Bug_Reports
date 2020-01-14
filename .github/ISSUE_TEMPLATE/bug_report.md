@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Rom name**
+Please submit your rom name with proper build date & type.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
